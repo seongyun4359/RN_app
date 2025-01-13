@@ -1,0 +1,64 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native Packager
+*.vscode/
+*.expo/
+.expo-shared/
+.expo/
+.expo-shared/
+dist/
+.build/
+build/
+.expo-shared/
+.gradle/
+.idea/
+
+# Logs
+logs
+*.log
+yarn-debug.log*
+npm-debug.log*
+npm-error.log*
+.expo/
+
+*.expo-shared/
+
+
+# Native modules
+.android/
+build/
+*.keystore
+.android/
+ios/
+Pods/
+
+# Fastlane
+ios/fastlane/report.xml
+android/fastlane/report.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Miscellaneous
+.DS_Store
+*.pid
+
+# Operating System files
+Thumbs.db
+.DS_Store
+
+# IDEs
+.idea/
+.gradle/
+
+# Metro
+*.expo-shared/
+
+# Test logs
+/coverage/
