@@ -1,0 +1,5 @@
+# ninja log v5
+0	13	0	/Users/lucha/Desktop/develop/react-native/android/app/.cxx/Debug/1u1v164o/armeabi-v7a/CMakeFiles/cmake.verify_globs	f06ec3dd70d98cba
+0	892	1737288222325361476	CMakeFiles/appmodules.dir/Users/lucha/Desktop/develop/react-native/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	1cb137849be3c002
+0	1014	1737288222446069956	CMakeFiles/appmodules.dir/OnLoad.cpp.o	a3571f5872c63e52
+1014	1070	1737288222505154056	/Users/lucha/Desktop/develop/react-native/android/app/build/intermediates/cxx/Debug/1u1v164o/obj/armeabi-v7a/libappmodules.so	d7d55c88b68ed460
